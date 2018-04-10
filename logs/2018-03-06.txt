@@ -1,0 +1,12 @@
+Time : 02:42:21
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'new_bd.usuario' doesn't exist
+Raw SQL : SELECT * FROM Usuario WHERE usuario = :usu AND contrasena = :pw
+
+Time : 02:39:06
+SQLSTATE[HY000] [1049] Unknown database 'new_db'
+
+Time : 02:38:54
+SQLSTATE[HY000] [1049] Unknown database 'nt_tic'
+
+Time : 02:38:18
+SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)

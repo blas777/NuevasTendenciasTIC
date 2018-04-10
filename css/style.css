@@ -1,0 +1,23 @@
+/*
+We highly recommend you use SASS and write your custom styles in sass/_custom.scss.
+However, this blank file is available if you prefer
+*/
+.form{
+	background:  #edefef;
+}
+
+.row td{
+	background: #f4fbfc;
+	/*text-align: center;*/
+}
+
+.row div, div, td{
+	
+	align-items: center;
+	background:  #f4fbfc ;
+	/*text-align: center;*/
+}
+
+.row div{
+	margin-bottom: 10px;
+}
